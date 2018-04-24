@@ -16,7 +16,7 @@ public class AppTest
     }
 
     @Test
-    public void testTrue()
+    public void testTrue()    
     {
         assertTrue( true );
     }
